@@ -1,0 +1,47 @@
+
+body {
+	margin: 0;
+}
+
+
+
+section {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+
+
+
+.box {
+	width: 25%;
+	float: left;
+	padding: 15px;
+	box-sizing: border-box;
+}
+
+
+p {
+	color: #fff;
+	margin: 0;
+	font-size: 20px;
+}
+
+
+.color-1 {
+	background: blue;
+	padding: 20px;
+}
+
+
+.color-2 {
+	background: blue;
+	padding: 20px;
+}
+
+
+.color-3 {
+	background: blue;
+	padding: 20px;
+}
